@@ -1,17 +1,17 @@
 
 ------------------Instruction to build-----------
 
-1) Download folder as zip and extract it
+1. Download folder as zip and extract it
 
-2)Navigate to the project directory 
+2. Navigate to the project directory 
 
-3) Make sure you have installed npm and nodejs. To check if its already installed run following:
+3. Make sure you have installed npm and nodejs. To check if its already installed run following:
 node -v
 npm -v
 
-4) To install run following: npm install
+4. To install run following: npm install
 
-5) Navigate to project directory and run following:
+5. Navigate to project directory and run following:
 npm start
 
 //Runs the app in the development mode.<br />
